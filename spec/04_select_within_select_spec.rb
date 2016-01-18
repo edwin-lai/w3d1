@@ -103,7 +103,7 @@ describe "SELECT within SELECT" do
         ["Vatican", "Europe"]
       )
     end
-  end 
+  end
 
   describe "population_constraint" do
     it "selects countries with a population between Poland and Canada" do
